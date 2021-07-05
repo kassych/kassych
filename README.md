@@ -1,4 +1,13 @@
 ### Hi there 👋
+#### I have a wide range of experience in IT and currently focusing on Python Programming
+#### I look foward to learning and building useful code to aid in automation and making work easier across different disciplines.
+
+#### I do have a Networking Background which is heavy on System Administration and a touch of Security .
+
+#### I have a curiosity that drives me to better my best.
+
+
+
 
 <!--
 **kassych/kassych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
