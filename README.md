@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I have a wide range of experience in IT and currently focusing on Python Programming
+#### I have a wide range of experience in IT and currently focusing on learning new stuff.
 #### I look foward to learning and building useful code to aid in automation and making work easier across different disciplines.
 
 #### I do have a Networking Background which is heavy on System Administration and a touch of Security .
